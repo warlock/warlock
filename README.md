@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Josep's github stats](https://github-readme-stats.vercel.app/api?username=warlock)](https://github.com/warlock)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warlock&layout=compact)](https://github.com/warlock)
+
+
 <!--
 **warlock/warlock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
