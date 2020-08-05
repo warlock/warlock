@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Josep's github stats](https://github-readme-stats.vercel.app/api?username=warlock)](https://github.com/warlock)
+[![Josep's github stats](https://github-readme-stats.vercel.app/api?username=warlock&show_icons=true&count_private=true)](https://github.com/warlock)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warlock&layout=compact)](https://github.com/warlock)
 
 
