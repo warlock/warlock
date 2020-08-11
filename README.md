@@ -1,6 +1,5 @@
-[![Josep's github stats](https://github-readme-stats.vercel.app/api?username=warlock&show_icons=true&count_private=true)](https://github.com/warlock)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warlock&count_private=true&hide=html)](https://github.com/warlock)
-
+[![Josep's github stats](https://github-readme-stats.vercel.app/api?username=warlock&show_icons=true&count_private=true&hide_title=true)](https://github.com/warlock)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warlock&layout=compact&count_private=true&hide=html)](https://github.com/warlock)
 
 <!--
 ### Hi there 👋
